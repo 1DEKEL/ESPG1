@@ -1,4 +1,5 @@
 window.onload = function(){
+    
     const intro = document.getElementById("inicio");
 
     setTimeout(()=>{
